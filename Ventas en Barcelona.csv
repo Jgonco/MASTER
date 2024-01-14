@@ -1,0 +1,80 @@
+﻿IDproducto;Nombre de producto;Segmento;Coste;PVP;Unidades Ofertadas;Unidades Vendidas
+MO001;Smartphone A;Movil;200;400;100;70
+TA002;Tablet X;Tablets;300;500;50;32
+PC003;PC Gamer Y;PCs;800;1200;80;75
+EL004;Lavadora Z;Electrodomést.;150;300;20;0
+PC005;Laptop B;PCs;600;900;60;36
+EL006;Refrigerador C;Electrodomést.;200;400;16;0
+MO007;Smartwatch D;Movil;100;200;50;32
+TA008;Tablet Pro;Tablets;350;550;40;25
+PC009;PC Todo-en-Uno E;PCs;700;1000;45;29
+EL010;Aspiradora F;Electrodomést.;120;240;18;1
+MO014;Noise Cancelling Earbuds;Movil;90;180;60;39
+TA015;Android Tablet;Tablets;250;400;35;22
+PC016;Business Laptop;PCs;900;1300;50;42
+EL017;Dishwasher;Electrodomést.;180;350;15;0
+PC018;Mini PC;PCs;400;600;45;29
+EL019;Coffee Maker;Electrodomést.;70;130;30;12
+MO020;VR Headset;Movil;150;250;40;25
+TA021;Drawing Tablet;Tablets;300;450;25;18
+PC022;All-in-One PC;PCs;700;1000;60;50
+EL023;Air Purifier;Electrodomést.;120;200;20;11
+MO024;Wireless Charger;Movil;50;100;70;43
+TA025;Educational Tablet;Tablets;180;300;30;22
+PC026;Workstation PC;PCs;1000;1500;35;22
+EL027;Toaster;Electrodomést.;40;80;25;18
+MO101;Fitness Smartwatch;Movil;120;220;80;50
+TA102;Gaming Tablet;Tablets;350;500;20;18
+PC103;Multimedia PC;PCs;800;1100;50;41
+EL104;Hand Blender;Electrodomést.;45;90;20;7
+MO105;Waterproof Smartphone;Movil;220;400;70;43
+MO028;Wireless Earphones;Movil;80;160;40;25
+TA029;Windows Tablet;Tablets;280;400;30;18
+PC030;Home Office PC;PCs;600;800;45;29
+EL031;Food Processor;Electrodomést.;100;200;15;4
+PC032;Gaming Desktop;PCs;1200;1500;25;25
+EL033;Vacuum Cleaner;Electrodomést.;150;250;30;5
+MO034;Portable Speaker;Movil;70;120;50;32
+TA035;Kids Learning Tablet;Tablets;150;250;25;18
+PC036;Ultrawide Monitor;PCs;500;800;40;25
+EL037;Electric Kettle;Electrodomést.;30;60;20;3
+MO038;Selfie Stick;Movil;20;40;60;39
+TA039;iPad Pro;Tablets;800;1200;35;22
+PC040;Mini Gaming PC;PCs;700;1000;30;22
+EL041;Slow Cooker;Electrodomést.;80;150;18;6
+MO098;In-Ear Monitor;Movil;60;120;50;32
+TA099;8-inch Tablet;Tablets;180;250;22;17
+PC100;Media Center PC;PCs;900;1300;28;18
+MO042;Power Bank;Movil;40;80;70;46
+TA043;Android Kids Tablet;Tablets;120;200;25;18
+PC044;High-Performance PC;PCs;1000;1400;45;35
+EL045;Air Fryer;Electrodomést.;90;160;20;15
+PC046;Desktop Tower PC;PCs;500;700;35;22
+EL047;Juicer;Electrodomést.;60;120;18;15
+MO048;Camera Drone;Movil;200;350;30;22
+TA049;10-inch Tablet;Tablets;250;400;40;25
+PC050;Gaming Console;PCs;700;1000;25;18
+EL051;Stand Mixer;Electrodomést.;100;180;15;2
+MO052;Fitness Earbuds;Movil;70;130;50;32
+TA053;Drawing Tablet Pro;Tablets;300;500;22;17
+PC054;Slim Desktop PC;PCs;600;900;28;18
+EL055;Bread Maker;Electrodomést.;80;150;20;4
+MO096;Wireless Charging Pad;Movil;30;60;40;29
+TA097;Windows Surface Tablet;Tablets;400;600;32;22
+MO056;Wireless Gaming Mouse;Movil;40;80;25;18
+TA057;12-inch Android Tablet;Tablets;300;450;20;15
+PC058;Mini Tower Gaming PC;PCs;600;800;30;22
+EL059;Standalone Freezer;Electrodomést.;150;300;12;1
+PC060;Home Theater PC;PCs;800;1200;28;18
+EL061;Espresso Machine;Electrodomést.;70;120;15;12
+MO062;Gaming Keyboard;Movil;60;100;35;25
+TA063;Educational Drawing Tablet;Tablets;150;250;18;15
+PC064;Streaming PC;PCs;700;1000;32;22
+EL065;Waffle Maker;Electrodomést.;40;80;20;5
+MO066;External Battery Pack;Movil;30;60;40;29
+TA067;Business Tablet;Tablets;350;500;22;17
+PC068;Compact Desktop PC;PCs;500;700;28;26
+EL069;Electric Grill;Electrodomést.;80;150;15;2
+MO093;Waterproof Bluetooth Speaker;Movil;50;100;45;32
+TA094;7-inch Kids Tablet;Tablets;180;250;18;11
+PC095;Living Room Gaming PC;PCs;900;1300;30;22
